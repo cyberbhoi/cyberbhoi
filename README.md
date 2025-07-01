@@ -6,11 +6,14 @@
 
 - 📝 I regularly write articles on [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
 
-- 💬 Ask me about **nextjs and expo**
+- 💬 Ask me about **NextJs and Expo**
 
-- ⚡ Fun fact is **I have to Code 24x7**
+- ⚡ Fun fact is **Writing Code 24x7**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cyberbhoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberbhoi" height="30" width="40" /></a>
-</p>
+## Programming Language and Framework
+
+- TypeScript
+- Python
+- Solidity
+- Rust
+- C#
