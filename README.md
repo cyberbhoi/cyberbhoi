@@ -12,8 +12,34 @@
 
 ## Programming Language and Framework
 
+- HTML
+- TailwindCSS
 - TypeScript
 - Python
 - Solidity
 - Rust
-- C#
+- Nextjs
+- Expo
+- NativeWind
+- Nestjs
+- Nodejs
+- Firebase
+- Supabase
+- Shopify
+- StrapiCMS
+- ContentfulCMS
+- SanityCMS
+- FastAPI
+- Actix
+- Google Cloud
+- Amazon Web Services
+- Docker
+- Kubernetes 
+- Ubuntu Linux
+
+---
+
+
+
+
+
