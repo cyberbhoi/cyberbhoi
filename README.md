@@ -36,6 +36,13 @@
 - Docker
 - Kubernetes 
 - Ubuntu Linux
+- Ethereum
+- Polygon
+- Avalanche
+- Hardhat
+- Foundry
+- Solana
+- Polkadot
 
 ---
 
