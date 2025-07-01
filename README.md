@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">Full-Stack Universal App & dApp Developer</h3>
 
-- 🌱 I’m currently learning **Rust, Solana & Polkadot and also C# and Unity**
+- 🌱 I’m currently learning **Rust, Solana & Polkadot**
 
 - 📝 I regularly write articles on [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
 
