@@ -1,11 +1,11 @@
 
-<h3 align="center">Building web/web3 apps on Full-Stack NextJS | Solana | Supabase | Shopify | PayloadCMS</h3>
+<h3 align="center">Full-Stack Developer | NextJs | Expo | Solana | Supabase | Firebase | Shopify | PayloadCMS</h3>
 
 - 🔭 I’m currently working on **Solana projects.**
 
 - 🌱 I’m currently learning **Rust Programming Language for Mastery.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects related to Nextjs and Solana.**
+- 👯 I’m looking to collaborate on **Open Source Projects related to Solana.**
 
 - 🤝 I’m looking for help with **Solana Web3 projects for Enterprise.**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
 
-- 💬 Ask me about **Nextjs and Solana**
+- 💬 Ask me about **anything related to my development stack.**
 
 - 📄 Know about me [https://cyberbhoi.me/](https://cyberbhoi.me/)
 
