@@ -1,5 +1,5 @@
 
-<h3 align="center">Full-Stack Developer | NextJs | Solana | Supabase | Firebase | Shopify | PayloadCMS | Vercel</h3>
+<h3 align="center">Full-Stack Developer | NextJs | Solana | Supabase | Shopify | PayloadCMS | Vercel</h3>
 
 - 🔭 I’m currently working on **Solana projects.**
 
@@ -9,12 +9,11 @@
 
 - 🤝 I’m looking for help with **Solana Web3 projects for Enterprise.**
 
-- 👨‍💻 All of my projects are available at [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
+- 👨‍💻 All of my projects and articles are available at [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
 
-- 📝 I regularly write articles on [https://cyberbhoi.github.io/](https://cyberbhoi.github.io/)
 
 - 💬 Ask me about **anything related to my development stack.**
 
 - 📄 Know about me [https://cyberbhoi.me/](https://cyberbhoi.me/)
 
-- ⚡ Fun fact **Time is not Linear, we can reshape it.**
+  
