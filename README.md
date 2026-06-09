@@ -1,5 +1,5 @@
 
-<h3 align="center">Full-Stack Developer | NextJs | Expo | Solana | Supabase | Firebase | Shopify | PayloadCMS</h3>
+<h3 align="center">Full-Stack Developer | NextJs | Solana | Supabase | Firebase | Shopify | PayloadCMS | Vercel</h3>
 
 - 🔭 I’m currently working on **Solana projects.**
 
